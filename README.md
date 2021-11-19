@@ -19,6 +19,7 @@ Affirmations app
 -   [ ] RecyclerView
 
 ### Requirements
-
--   [ ]Android 4.4 or higher
+  
+  
+-   [ ] Android 4.4 or higher
 </div>
