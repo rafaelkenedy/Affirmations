@@ -15,8 +15,8 @@ Affirmations app
 
 # Technologies
 
-  - Kotlin
-  - RecyclerView
+[x] - Kotlin
+[x] - RecyclerView
 
 ### Requirements
 
