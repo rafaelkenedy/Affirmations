@@ -11,18 +11,15 @@ Affirmations app
 </div>
 
 <br>
-<br>
 
-# Technologies
 
-[x] - Kotlin
-[x] - RecyclerView
+## ✨ Technologies 
+  
+-   [ ] Kotlin
+-   [ ] RecyclerView
 
 ### Requirements
 
-- Android 4.4 or higher
+-   [ ]Android 4.4 or higher
 
-<br>
-
-<hr>
 
