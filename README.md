@@ -12,7 +12,7 @@ Affirmations app
 
 <br>
 
-
+<div>
 ## ✨ Technologies 
   
 -   [ ] Kotlin
@@ -22,4 +22,4 @@ Affirmations app
 
 -   [ ]Android 4.4 or higher
 
-
+</div>
