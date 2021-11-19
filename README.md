@@ -21,5 +21,4 @@ Affirmations app
 ### Requirements
 
 -   [ ]Android 4.4 or higher
-
 </div>
