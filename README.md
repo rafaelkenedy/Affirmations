@@ -12,7 +12,7 @@ Affirmations app
 
 <br>
 
-<div>
+<div align="left">
 ## ✨ Technologies 
   
 -   [ ] Kotlin
